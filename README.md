@@ -1,3 +1,3 @@
-A crude initial pass at imitating SkiFree. 
+A crude initial pass at recreating SkiFree. 
 The skier moves left and right with the arrow keys. Downhill velocity is fixed.
-![Screenshot 2025-02-04 at 9.23.40 PM.png](screenshot.png)
+![Screenshot](screenshot.png)
